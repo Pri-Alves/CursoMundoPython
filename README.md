@@ -19,3 +19,16 @@
 * ex018 - Programa que lê um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 * ex019 - Programa que ajuda um professor a sortear um dos seus quatro alunos para apagar o quadro.
 * ex020 - Programa que lê o nome dos quatro alunos e mostre a ordem sorteada para uma apresentação.
+* ex021 - Programa em Python que abre e reproduz o áudio de um arquivo MP3.
+* ex022 - Programa que lê o nome completo de uma pessoa e mostra: 
+– O nome com todas as letras maiúsculas e minúsculas.
+– Quantas letras ao todo (sem considerar espaços).
+– Quantas letras tem o primeiro nome.
+* ex023 - Programa que lê um número de 0 a 9999 e mostra na tela cada um dos dígitos separados.
+* ex024 - Programa que lê o nome de uma cidade diz se ela começa ou não com o nome “SANTO”.
+* ex025 - Programa que lê o nome de uma pessoa e diz se ela tem “SILVA” no nome.
+* ex026 - Programa que lê uma frase pelo teclado e mostra quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+* ex027 - Programa que lê o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+* ex028 - Programa que faz o computador “pensar” em um número inteiro entre 0 e 5 e pede para o usuário tente descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+* ex029 - Programa que lê a velocidade de um carro. Se ele ultrapassar 80Km/h, mostra uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+* ex030 - Programa que lê um número inteiro e mostra na tela se ele é PAR ou ÍMPAR.
