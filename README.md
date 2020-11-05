@@ -32,3 +32,9 @@
 * ex028 - Programa que faz o computador “pensar” em um número inteiro entre 0 e 5 e pede para o usuário tente descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 * ex029 - Programa que lê a velocidade de um carro. Se ele ultrapassar 80Km/h, mostra uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
 * ex030 - Programa que lê um número inteiro e mostra na tela se ele é PAR ou ÍMPAR.
+* ex031 - Programa que pergunta a distância de uma viagem em Km. Calcula o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 para viagens mais longas.
+* ex032 - Programa que lê um ano qualquer e mostre se ele é bissexto.
+* ex033 - Programa que lê três números e mostra qual é o maior e qual é o menor.
+* ex034 - Programa que pergunta o salário de um funcionário e calcula o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%
+* ex035 - Programa que lê o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+  
