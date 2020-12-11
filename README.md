@@ -73,3 +73,43 @@
 – em até 2x no cartão: preço formal 
 – 3x ou mais no cartão: 20% de juros
 * ex045 - Programa que faz o computador jogar Jokenpô com você.
+##### Repetições em Python(for)
+* ex046 - Programa que mostra na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+* ex047 - Programa que mostra na tela todos os números pares que estão no intervalo entre 1 e 50.
+* ex048 - programa que calculA a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+* ex049 - Mesmo programa do DESAFIO 9, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+* ex050 - Programa que lê seis números inteiros e mostra a soma apenas daqueles que forem pares. Se o valor digitado for ímpar ele é desconsiderado.
+* ex051 - Programa que lê o primeiro termo e a razão de uma PA. No final, mostra os 10 primeiros termos dessa progressão.
+* ex052 - Programa que lê um número inteiro e diz se ele é ou não um número primo.
+* ex053 - Programa que lê uma frase qualquer e diz se ela é um palíndromo, desconsiderando os espaços. Exemplos de palíndromos: APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO, ANOTARAM A DATA DA MARATONA.
+* ex054 - Programa que lê o ano de nascimento de sete pessoas. No final, mostra quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+* ex055 - Programa que lê o peso de cinco pessoas. No final, mostra qual foi o maior e o menor peso lido.
+* ex056 - Programa que lê o nome, idade e sexo de 4 pessoas. No final do programa, mostra: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
+##### Repetições em Python(while)
+* ex057 - Programa que lê o sexo de uma pessoa, mas só aceite os valores ‘M’ ou ‘F’. Caso esteja errado, peça a digitação novamente até ter um valor correto.
+* ex058 - Versão melhorada do jogo do DESAFIO 28 onde o computador vai “pensar” em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+* ex059 - Programa que lê dois valores e mostre um menu na tela:
+[ 1 ] somar
+[ 2 ] multiplicar
+[ 3 ] maior
+[ 4 ] novos números
+[ 5 ] sair do programa
+O programa deverá realizar a operação solicitada em cada caso.
+* ex060 - Programa que lê um número qualquer e mostra o seu fatorial. Exemplo: 5! = 5 x 4 x 3 x 2 x 1 = 120
+* ex061 - Mesmo DESAFIO 51, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+* ex062 - Mesmo DESAFIO 61, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
+* ex063 - Programa que lê um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci. Exemplo: 0 – 1 – 1 – 2 – 3 – 5 – 8
+* ex064 - Programa que lê vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostra quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).
+* ex065 - Programa que lê vários números inteiros pelo teclado. No final da execução, mostra a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+* ex066 - Programa que leia números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre elas (desconsiderando o flag).
+* ex067 - Programa que mostra a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
+* ex068 - Programa que jogua par ou ímpar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+* ex069 - programa que lê a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa perguntará se o usuário quer ou não continuar. No final, mostra:
+A) quantas pessoas tem mais de 18 anos.
+B) quantos homens foram cadastrados.
+C) quantas mulheres tem menos de 20 anos.
+* ex070 - Programa que lê o nome e o preço de vários produtos. O programa perguntará se o usuário vai continuar ou não. No final, mostra:
+A) qual é o total gasto na compra.
+B) quantos produtos custam mais de R$1000.
+C) qual é o nome do produto mais barato.
+* ex071 - Programa que simula o funcionamento de um caixa eletrônico. No início, pergunta ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
